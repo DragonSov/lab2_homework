@@ -24,10 +24,10 @@
     <None Include="schema.drawio" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="schema.png">
+    <Image Include="result.png">
       <Filter>Файлы ресурсов</Filter>
     </Image>
-    <Image Include="result.png">
+    <Image Include="..\..\..\Downloads\schema.png">
       <Filter>Файлы ресурсов</Filter>
     </Image>
   </ItemGroup>

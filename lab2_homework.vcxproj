@@ -130,8 +130,8 @@
     <None Include="schema.drawio" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\Downloads\schema.png" />
     <Image Include="result.png" />
-    <Image Include="schema.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
